@@ -1,3 +1,3 @@
 # helper-files
 
-Up-to-date 19-09-2020
+Just some files to help me around. You wouldn't find anything of interest here, best save your time and venture elsewhere.
